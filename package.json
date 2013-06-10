@@ -1,0 +1,9 @@
+{
+	"name": "test",
+	"version": "0.0.1",
+
+	"devDependencies": {
+		"grunt": "0.4.1",
+		"grunt-FET-build": "git+ssh://git@github.com:bpletzer/FET-build.git"
+	}
+}
